@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, C++, .Net(XAML & C#)**
+- 💬 Ask me about **Flutter, .Net(XAML & C#)**
 
 - 📫 How to reach me **iamluckycheema@gmail.com**
 
