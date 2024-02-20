@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckycheema" alt="iamluckycheema" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Flutter, .Net(XAML & C#)**
+- 💬 Ask me about **Flutter, Next.js**
 
 - 📫 How to reach me **iamluckycheema@gmail.com**
 
