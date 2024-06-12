@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-com App in Next.js and Django**
 
-- 🌱 I’m currently learning **Next.js, Flutter**
+- 🌱 I’m currently learning **Django, Django REST Framework, Next.js & Flutter**
 
 - 💬 Ask me about **Flutter, C++, JavaScript, Next.js**
 
