@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckycheema" alt="iamluckycheema" /></a> </p>
 
-- 🔭 I’m currently working on **E-com App in Next.js and Django**
+- 🔭 I’m currently working on **Ecommerce Store with Next.js and Django REST**
 
-- 🌱 I’m currently learning **Django, Django REST Framework, Next.js & Flutter**
+- 🌱 I’m currently learning **Django REST Framework, Next.js & Redux Toolkit**
 
-- 💬 Ask me about **Flutter, C++, JavaScript, Next.js**
+- 💬 Ask me about **JavaScript/TypeScript, Python, C++**
 
 - 📫 How to reach me **iamluckycheema@gmail.com**
 
