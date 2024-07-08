@@ -2,7 +2,7 @@
 🔭 I’m currently working on Ecommerce Store with Next.js and Django REST<br>🌱 I’m currently learning Django REST Framework, Next.js & Redux Toolkit<br>💬 Ask me about JavaScript/TypeScript, Python, C++<br>📫 How to reach me iamluckycheema@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamlucycheema) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamluckycheema) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamluckycheema) 
 
 # 💻 Tech Stack:
