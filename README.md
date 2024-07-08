@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucky Ali</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+# Hi 👋, I'm Lucky Ali
+### A passionate developer from Pakistan
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=iamluckycheema&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
