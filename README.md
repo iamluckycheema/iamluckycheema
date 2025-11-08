@@ -1,13 +1,11 @@
 # Hi 👋, I'm Lucky Ali
-I enjoy creating things that live on the web. My work spans from building intuitive frontends to crafting efficient backends.<br>Most of my projects involve Python (Django, DRF, FastAPI) and JavaScript/TypeScript (React, Next.js, Redux).<br><br>🧠 I’m always exploring new technologies, especially in AI, ML, and automation.<br>⚙️ I work comfortably with Docker, CI/CD pipelines, and deployments on VPS and AWS.<br>📦 I use tools like Prisma, Supabase, and Stripe to bring ideas to life.
+I enjoy creating things that live on the web. My work spans from building intuitive frontends to crafting efficient backends.<br>Most of my projects involve Python (Django, DRF, FastAPI) and JavaScript/TypeScript (React, Next.js, Redux).<br><br>🧠 I’m always exploring new technologies, especially in AI, ML, and automation.<br>⚙️ I work comfortably with Docker, CI/CD pipelines, and deployments on VPS and AWS.<br>📦 I use tools like Prisma, Supabase, and Stripe to bring ideas to life. <br/>📫 How to reach me **<iamluckycheema@gmail.com>**
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=iamluckycheema&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **<iamluckycheema@gmail.com>**
-
 ### 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamlucycheema) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamluckycheema) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamluckycheema)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamluckycheema) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamluckycheema) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamlucycheema) 
 
 ### 💻 Tech Stack
 
